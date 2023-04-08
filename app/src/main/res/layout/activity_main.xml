@@ -52,7 +52,7 @@
             android:layout_height="wrap_content"
             app:layout_constraintTop_toBottomOf="@id/ll_input"
             android:layout_marginVertical="40dp"
-            android:layout_marginHorizontal="10dp"
+            android:layout_marginHorizontal="20dp"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintBottom_toBottomOf="parent">
@@ -154,7 +154,7 @@
                 android:text="@string/tv_label_type"
                 android:alpha="0.6"
                 android:gravity="center"
-                android:layout_marginStart="60dp"
+                android:layout_marginStart="100dp"
                 app:layout_constraintTop_toTopOf="parent"
                 app:layout_constraintStart_toEndOf="@id/tv_label_scheme"/>
 
